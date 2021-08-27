@@ -4,9 +4,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielGomes33&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGomes33&layout=compact&langs_count=7&theme=merko"/>
    
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGomes33&layout=compact&langs_count=7&theme=gruvbox"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGomes33&layout=compact&langs_count=7&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGomes33&layout=compact&langs_count=7&theme=onedark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGomes33&layout=compact&langs_count=7&theme=gsynthware"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGomes33&layout=compact&langs_count=7&theme=highcontrast"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGomes33&layout=compact&langs_count=7&theme=dracula"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGomes33&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
