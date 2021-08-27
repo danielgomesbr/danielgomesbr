@@ -1,4 +1,4 @@
-## Olá! Eu sou o Daniel S. Gomes
+## Bem Vindos! Sou Um Entusiasta Em Tecnologia e Gostando Cada Vez Mais De Aprender.
  <div>
   <a href="https://github.com/DanielGomes33">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielGomes33&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&border_radius=5"/>
