@@ -1,7 +1,7 @@
 ## Bem Vindo! 👀 Sou Entusiasta Em Tecnologia e Gostando Cada Vez Mais De Aprender. 👌
  <div>
   <a href="https://github.com/DanielGomes33">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielGomes33&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&border_radius=-50%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielGomes33&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&border_radius=50"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGomes33&layout=compact&langs_count=7&theme=highcontrast&border_radius=2"/>
 </div>
   
