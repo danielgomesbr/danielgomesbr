@@ -16,7 +16,7 @@ TROQUE:
 ---
 
 ### 🚀 Sobre mim
-- 👨‍💻 Amo criar projetos com **Python** e web (**HTML5 + CSS3**).
+- 👨‍💻 Gosto de criar projetos com **Python** e web (**HTML5 + CSS3**).
 - 🛠️ Versiono meu código com **Git** e **GitHub**.
 - 🧰 Trabalho no **VS Code** e também no **PyCharm**.
 - 🎯 Em busca de aprender e compartilhar!
