@@ -28,45 +28,22 @@ TROQUE:
 
 <!-- ÍCONES GRANDES (imagens) — você pode mudar o "height" para ficar maior/menor -->
 
-<p align="left">
-  <a href="https://www.python.org/" title="Python" target="_blank">
-    <img alt="Python" height="64"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  </a>
- 
-  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5" target="_blank" >
-    <img alt="HTML5" height="80"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3" target="_blank">
-    <img alt="CSS3" height="64"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  </a>
-  
-  <a href="https://git-scm.com/" title="Git" target="_blank">
-    <img alt="Git" height="80"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </a>
-  
-  <a href="https://github.com/" title="GitHub" target="_blank">
-    <img alt="GitHub" height="64"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  </a>
-  
-  <a href="https://code.visualstudio.com/" title="VS Code" target="_blank">
-    <img alt="VS Code" height="80"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  </a>
-  
-  <a href="https://www.jetbrains.com/pycharm/" title="PyCharm" target="_blank">
-    <img alt="PyCharm" height="64"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-  </a>
-</p>
-
- 
-                 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="80" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="80" alt="vscode logo"  />
+</div>
+              
 ---
 
 <!--### 📌 Projetos em destaque
@@ -80,8 +57,7 @@ TROQUE:
 
 
    ![danielgomesbr](https://github-readme-stats.vercel.app/api?username=danielgomesbr&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=highcontrast)
-
-
+   
 ---
  
   <picture>
@@ -91,6 +67,8 @@ TROQUE:
 </picture> 
 
 ---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=danielgomesbr&label=Profile%20views&color=0e75b6&style=flat" alt="danielgomesbr" /> </p>
 
 
 ### 📫 Contato
