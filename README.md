@@ -72,7 +72,11 @@ TROQUE:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielgomesbr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&border_radius=5"/>
 </div>
    
-![snake animation](https://github.com/<danielgomesbr>/<danielgomesbr>/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielgomesbr/danielgomesbr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielgomesbr/danielgomesbr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danielgomesbr/danielgomesbr/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
