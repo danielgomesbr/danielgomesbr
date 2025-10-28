@@ -10,7 +10,10 @@ TROQUE:
   <img src="https://github.com/user-attachments/assets/ba8db847-14e8-4df8-875a-c944f1433d15" alt="Imagem Pessoal">
 </p>
 
-<h1 align="center">Olá! Eu sou o Daniel 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=6000&color=33FF33&center=true&vCenter=true&width=550&lines=Olá!+Eu+sou+o+Daniel+;esse+é+meu+perfil.👋;Hello+I'm+Daniel+;thi+is+my+profile.+👋;" alt="Typing SVG" />
+</div>
+
 <p align="center"><strong>Aprendiz a Programador & Desenvolvedor</strong></p>
 <p align="center"><em>Entusiasta Em Tecnologia e Gostando Cada Vez Mais De Aprender. 👌</em></p>
 
