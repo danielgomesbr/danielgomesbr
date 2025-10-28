@@ -11,7 +11,7 @@ TROQUE:
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=6000&color=33FF33&center=true&vCenter=true&width=550&lines=Olá!+Eu+sou+o+Daniel+;esse+é+meu+perfil.👋;Hello+I'm+Daniel+;thi+is+my+profile.👋;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=6000&color=33FF33&center=true&vCenter=true&width=550&lines=Olá!+Eu+sou+o+Daniel+;seja+bem-vindo.👋;Hello!+I'm+Daniel+;welcome.👋;" alt="Typing SVG" />
 </div>
 
 <p align="center"><strong>Aprendiz a Programador & Desenvolvedor</strong></p>
